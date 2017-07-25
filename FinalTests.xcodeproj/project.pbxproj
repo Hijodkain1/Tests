@@ -12,6 +12,26 @@
 		7D1375741E4E9477000A6A67 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D1375721E4E9477000A6A67 /* Main.storyboard */; };
 		7D1375761E4E9477000A6A67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D1375751E4E9477000A6A67 /* Assets.xcassets */; };
 		7D1375791E4E9477000A6A67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D1375771E4E9477000A6A67 /* LaunchScreen.storyboard */; };
+		7D2F7FC11E4F1BC700C37F67 /* HombroTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2F7FC01E4F1BC700C37F67 /* HombroTableViewController.swift */; };
+		7D2F7FC31E4F1D2600C37F67 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2F7FC21E4F1D2600C37F67 /* Test.swift */; };
+		7D2F7FCB1E4F8E9600C37F67 /* HombroTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2F7FCA1E4F8E9600C37F67 /* HombroTableViewCell.swift */; };
+		7D32A1501E559F7A00535096 /* CodoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D32A14F1E559F7A00535096 /* CodoTableViewController.swift */; };
+		7D32A1541E55A02D00535096 /* CodoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D32A1531E55A02D00535096 /* CodoTableViewCell.swift */; };
+		7D34A72C1E5724A800E447F4 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D34A72B1E5724A800E447F4 /* DetailViewController.swift */; };
+		7D3A29BD1E68D54000F3F61B /* PieTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3A29BC1E68D54000F3F61B /* PieTableViewCell.swift */; };
+		7D3A29BF1E68D57100F3F61B /* PieTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3A29BE1E68D57100F3F61B /* PieTableViewController.swift */; };
+		7D3A29C11E68FCDA00F3F61B /* CaderaTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3A29C01E68FCDA00F3F61B /* CaderaTableViewController.swift */; };
+		7D3A29C31E68FCEC00F3F61B /* RodillaTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3A29C21E68FCEC00F3F61B /* RodillaTableViewController.swift */; };
+		7D3A29C51E68FD0400F3F61B /* LumbarTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3A29C41E68FD0400F3F61B /* LumbarTableViewController.swift */; };
+		7D3A29C71E68FE5700F3F61B /* CaderaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3A29C61E68FE5700F3F61B /* CaderaTableViewCell.swift */; };
+		7D3A29C91E68FE6D00F3F61B /* RodillaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3A29C81E68FE6D00F3F61B /* RodillaTableViewCell.swift */; };
+		7D3A29CB1E68FE9600F3F61B /* LumbarTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3A29CA1E68FE9600F3F61B /* LumbarTableViewCell.swift */; };
+		7D650E401E7174A2003349EE /* infoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D650E3F1E7174A2003349EE /* infoViewController.swift */; };
+		7D7AA1691E572CD500A5CA95 /* TestDetailViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7AA1681E572CD500A5CA95 /* TestDetailViewCell.swift */; };
+		7D7D97BD1E61A0FD009A8451 /* ManoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7D97BC1E61A0FD009A8451 /* ManoTableViewController.swift */; };
+		7D7D97BF1E61A263009A8451 /* ManoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7D97BE1E61A263009A8451 /* ManoTableViewCell.swift */; };
+		7DA8E9E21E61B5180011A391 /* CervicalTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA8E9E11E61B5180011A391 /* CervicalTableViewController.swift */; };
+		7DA8E9E41E61B59E0011A391 /* CervicalTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA8E9E31E61B59E0011A391 /* CervicalTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +42,26 @@
 		7D1375751E4E9477000A6A67 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D1375781E4E9477000A6A67 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D13757A1E4E9477000A6A67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D2F7FC01E4F1BC700C37F67 /* HombroTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HombroTableViewController.swift; sourceTree = "<group>"; };
+		7D2F7FC21E4F1D2600C37F67 /* Test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
+		7D2F7FCA1E4F8E9600C37F67 /* HombroTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HombroTableViewCell.swift; sourceTree = "<group>"; };
+		7D32A14F1E559F7A00535096 /* CodoTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CodoTableViewController.swift; sourceTree = "<group>"; };
+		7D32A1531E55A02D00535096 /* CodoTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CodoTableViewCell.swift; sourceTree = "<group>"; };
+		7D34A72B1E5724A800E447F4 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		7D3A29BC1E68D54000F3F61B /* PieTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieTableViewCell.swift; sourceTree = "<group>"; };
+		7D3A29BE1E68D57100F3F61B /* PieTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieTableViewController.swift; sourceTree = "<group>"; };
+		7D3A29C01E68FCDA00F3F61B /* CaderaTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CaderaTableViewController.swift; sourceTree = "<group>"; };
+		7D3A29C21E68FCEC00F3F61B /* RodillaTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RodillaTableViewController.swift; sourceTree = "<group>"; };
+		7D3A29C41E68FD0400F3F61B /* LumbarTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LumbarTableViewController.swift; sourceTree = "<group>"; };
+		7D3A29C61E68FE5700F3F61B /* CaderaTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CaderaTableViewCell.swift; sourceTree = "<group>"; };
+		7D3A29C81E68FE6D00F3F61B /* RodillaTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RodillaTableViewCell.swift; sourceTree = "<group>"; };
+		7D3A29CA1E68FE9600F3F61B /* LumbarTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LumbarTableViewCell.swift; sourceTree = "<group>"; };
+		7D650E3F1E7174A2003349EE /* infoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = infoViewController.swift; sourceTree = "<group>"; };
+		7D7AA1681E572CD500A5CA95 /* TestDetailViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestDetailViewCell.swift; sourceTree = "<group>"; };
+		7D7D97BC1E61A0FD009A8451 /* ManoTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ManoTableViewController.swift; sourceTree = "<group>"; };
+		7D7D97BE1E61A263009A8451 /* ManoTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ManoTableViewCell.swift; sourceTree = "<group>"; };
+		7DA8E9E11E61B5180011A391 /* CervicalTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CervicalTableViewController.swift; sourceTree = "<group>"; };
+		7DA8E9E31E61B59E0011A391 /* CervicalTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CervicalTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,9 +95,29 @@
 			isa = PBXGroup;
 			children = (
 				7D13756E1E4E9477000A6A67 /* AppDelegate.swift */,
-				7D1375701E4E9477000A6A67 /* ViewController.swift */,
+				7D2F7FC21E4F1D2600C37F67 /* Test.swift */,
 				7D1375721E4E9477000A6A67 /* Main.storyboard */,
+				7D1375701E4E9477000A6A67 /* ViewController.swift */,
+				7D34A72B1E5724A800E447F4 /* DetailViewController.swift */,
+				7D7AA1681E572CD500A5CA95 /* TestDetailViewCell.swift */,
+				7DA8E9E11E61B5180011A391 /* CervicalTableViewController.swift */,
+				7DA8E9E31E61B59E0011A391 /* CervicalTableViewCell.swift */,
+				7D2F7FC01E4F1BC700C37F67 /* HombroTableViewController.swift */,
+				7D2F7FCA1E4F8E9600C37F67 /* HombroTableViewCell.swift */,
+				7D32A14F1E559F7A00535096 /* CodoTableViewController.swift */,
+				7D32A1531E55A02D00535096 /* CodoTableViewCell.swift */,
+				7D7D97BC1E61A0FD009A8451 /* ManoTableViewController.swift */,
+				7D7D97BE1E61A263009A8451 /* ManoTableViewCell.swift */,
+				7D3A29C41E68FD0400F3F61B /* LumbarTableViewController.swift */,
+				7D3A29CA1E68FE9600F3F61B /* LumbarTableViewCell.swift */,
+				7D3A29C01E68FCDA00F3F61B /* CaderaTableViewController.swift */,
+				7D3A29C61E68FE5700F3F61B /* CaderaTableViewCell.swift */,
+				7D3A29C21E68FCEC00F3F61B /* RodillaTableViewController.swift */,
+				7D3A29C81E68FE6D00F3F61B /* RodillaTableViewCell.swift */,
+				7D3A29BE1E68D57100F3F61B /* PieTableViewController.swift */,
+				7D3A29BC1E68D54000F3F61B /* PieTableViewCell.swift */,
 				7D1375751E4E9477000A6A67 /* Assets.xcassets */,
+				7D650E3F1E7174A2003349EE /* infoViewController.swift */,
 				7D1375771E4E9477000A6A67 /* LaunchScreen.storyboard */,
 				7D13757A1E4E9477000A6A67 /* Info.plist */,
 			);
@@ -91,7 +151,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0800;
-				LastUpgradeCheck = 0800;
+				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = "Juan carlos";
 				TargetAttributes = {
 					7D13756A1E4E9477000A6A67 = {
@@ -137,8 +197,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D3A29C31E68FCEC00F3F61B /* RodillaTableViewController.swift in Sources */,
+				7D32A1501E559F7A00535096 /* CodoTableViewController.swift in Sources */,
+				7D650E401E7174A2003349EE /* infoViewController.swift in Sources */,
+				7D3A29C11E68FCDA00F3F61B /* CaderaTableViewController.swift in Sources */,
+				7D3A29C91E68FE6D00F3F61B /* RodillaTableViewCell.swift in Sources */,
+				7D2F7FCB1E4F8E9600C37F67 /* HombroTableViewCell.swift in Sources */,
+				7D3A29BD1E68D54000F3F61B /* PieTableViewCell.swift in Sources */,
+				7D2F7FC11E4F1BC700C37F67 /* HombroTableViewController.swift in Sources */,
+				7D2F7FC31E4F1D2600C37F67 /* Test.swift in Sources */,
+				7DA8E9E21E61B5180011A391 /* CervicalTableViewController.swift in Sources */,
+				7D3A29C51E68FD0400F3F61B /* LumbarTableViewController.swift in Sources */,
+				7DA8E9E41E61B59E0011A391 /* CervicalTableViewCell.swift in Sources */,
+				7D7D97BF1E61A263009A8451 /* ManoTableViewCell.swift in Sources */,
+				7D7AA1691E572CD500A5CA95 /* TestDetailViewCell.swift in Sources */,
 				7D1375711E4E9477000A6A67 /* ViewController.swift in Sources */,
+				7D3A29CB1E68FE9600F3F61B /* LumbarTableViewCell.swift in Sources */,
+				7D7D97BD1E61A0FD009A8451 /* ManoTableViewController.swift in Sources */,
+				7D32A1541E55A02D00535096 /* CodoTableViewCell.swift in Sources */,
+				7D3A29C71E68FE5700F3F61B /* CaderaTableViewCell.swift in Sources */,
 				7D13756F1E4E9477000A6A67 /* AppDelegate.swift in Sources */,
+				7D34A72C1E5724A800E447F4 /* DetailViewController.swift in Sources */,
+				7D3A29BF1E68D57100F3F61B /* PieTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -182,6 +262,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -204,7 +285,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -232,6 +313,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -248,7 +330,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -306,6 +388,7 @@
 				7D13757F1E4E9477000A6A67 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

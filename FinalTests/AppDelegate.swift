@@ -15,7 +15,25 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+       // Override point for customization after application launch
+       
+        UINavigationBar.appearance().backgroundColor = UIColor(colorLiteralRed: 191.0, green: 87.0, blue: 0.0, alpha: 1.0)
+        UINavigationBar.appearance().tintColor = UIColor.white  //color de la fuente del boton Atrás
+        
+        
+        
+      
+        
+        
+        
+        
+        
+        /*UINavigationBar.titleTextAttributes = [NSForegroundColorAttributeName : UIColor.blue(),
+                                               //es el color de la fuente del titulo
+            NSFontAttributeName : UIFont.init(name: "Avernir-Light", size: 25.0) ] //es el tipo de fuente.*/
+        
+      
+        
         return true
     }
 
